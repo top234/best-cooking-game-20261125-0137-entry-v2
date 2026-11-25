@@ -1,8 +1,8 @@
 # Warung Senja — Senja Paling Ramai
 
-![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137.svg)
-![rank](https://make.fun/badge/best-cooking-game-20261125-0137/top234/best-cooking-game-20261125-0137-entry-v2/rank.svg)
-![reward](https://make.fun/badge/best-cooking-game-20261125-0137/top234/best-cooking-game-20261125-0137-entry-v2/reward.svg)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/top234/best-cooking-game-20261125-0137-entry-v2/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/top234/best-cooking-game-20261125-0137-entry-v2/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 Game masak warung kaki lima Indonesia untuk kompetisi make.fun **"Make the best cooking game"** (`best-cooking-game-20261125-0137`). Kelola warung saat senja paling ramai: potong bahan di talenan, masak di wajan (jangan sampai gosong!), rakit hidangan di meja saji, lalu sajikan ke pelanggan sebelum kesabarannya habis.
 
